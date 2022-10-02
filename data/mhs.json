@@ -1,0 +1,154 @@
+[
+  {
+    "nama": "Ahmad Wali Alchalidi",
+    "nim": "1957301038",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Ainul Fitria",
+    "nim": "1957301048",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Aulia Rahman",
+    "nim": "1957301062",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Awalul Zikri Annur",
+    "nim": "1957301028",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Dara Melisa",
+    "nim": "1957301029",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Dinar Fahdil Amin",
+    "nim": "1957301034",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Farah Raihanunnisa",
+    "nim": "1957301026",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Farhan Kamil",
+    "nim": "1957301042",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Hafidh Asyi",
+    "nim": "1957301050",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Ihsan Dika",
+    "nim": "1957301047",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Irwansyah",
+    "nim": "1957301049",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Khaira Maulida",
+    "nim": "1957301032",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Khaira Nadia",
+    "nim": "1957301046",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "M Ilham Afif",
+    "nim": "1957301044",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Marwazi",
+    "nim": "1857301044",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Muariful Fattah",
+    "nim": "1957301045",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Muhammad Daffa Al Farizi",
+    "nim": "1957301033",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Muhammad Kausar",
+    "nim": "1957301007",
+    "kelas":"TI 4B",
+    "api": "https://kausarm-express.herokuapp.com"
+  },
+  {
+    "nama": "Muhammad Rizieq Kaifan",
+    "nim": "1957301069",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Muhammad",
+    "nim": "1957301075",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Nurmaisuri Suana",
+    "nim": "1957301019",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Rahmaini Salsabila Sari",
+    "nim": "1957301008",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Rahmat Dany Rizki",
+    "nim": "1957301027",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Rahmat Fazrian",
+    "nim": "1957301035",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Raihan Jihan",
+    "nim": "1957301023",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Rania Annisa",
+    "nim": "1957301036",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Rifnatul Hasanah",
+    "nim": "1957301010",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "RIZQILLAH",
+    "nim": "1957301020",
+    "kelas":"TI 4B",
+    "api": "https://test-api-web.herokuapp.com"
+  },
+  {
+    "nama": "Salma Sheila Maulina Putri",
+    "nim": "1957301017",
+    "kelas":"TI 4B"
+  },
+  {
+    "nama": "Sharhan Anhar",
+    "nim": "1957301071",
+    "kelas":"TI 4B"
+  }
+]

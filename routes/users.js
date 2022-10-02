@@ -1,22 +1,29 @@
 var express = require('express');
 var router = express.Router();
+var data = require('../data/mhs.json')
 
-/* GET users listing. */
-router.get('/', function(req, res, next) {
+
+router.get('/', function(req, res) {
     res.json({
-      data: [
-        {
-          name: "kausar",
-          nim: 1957301007,
-          kelas: "TI 4B",
-        },
-        {
-          name: "halim",
-          nim: 1957301008,
-          kelas: "TI 4B",
-        },
-      ],
+      data: data,
     });
+});
+
+router.get('/:nim', function(req, res) {
+  const {nim} = req.params
+
+  const dataa = data.filter((n) => n.nim === nim);
+
+  if (dataa !== undefined) {
+    res.status(200).json({
+      status: "success",
+      dataa,
+    });
+  } else {
+    res.status(404).json({
+      message: "Tidak ditemukan!",
+    });
+  }
 });
 
 module.exports = router;
