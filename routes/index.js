@@ -1,6 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
+
+// minor changes
+
 router.get('/', function(req, res, next) {
   res.status(200).json(
     { 
